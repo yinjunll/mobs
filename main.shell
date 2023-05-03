@@ -1,0 +1,8 @@
+ ```shell
+    # macOS
+    brew install flyctl
+    # Windows
+    scoop install flyctl
+    # Linux
+    curl https://fly.io/install.sh | sh
+   ```
